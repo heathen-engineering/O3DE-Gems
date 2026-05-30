@@ -25,7 +25,7 @@
       "platforms": [
         "Windows","Linux","Android","iOS"
       ],
-      "icon_path": "",
+      "icon_path": "https://github.com/heathen-engineering/O3DE-xxHash/preview.png",
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
