@@ -25,7 +25,7 @@
       "platforms": [
         "Windows","Linux","Android","iOS"
       ],
-      "icon_path": "https://github.com/heathen-engineering/O3DE-xxHash/preview.png",
+      "icon_path": "preview.png",
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
@@ -55,7 +55,7 @@
       "platforms": [
         "Windows","Linux","iOS","Android"
       ],
-      "icon_path": "",
+      "icon_path": "preview.png",
       "requirements": "",
       "documentation_url": "",
       "dependencies": [
@@ -86,7 +86,7 @@
       "platforms": [
         "Windows","Linux","Android","iOS"
       ],
-      "icon_path": "",
+      "icon_path": "preview.png",
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
@@ -117,7 +117,7 @@
       "platforms": [
         "Windows","Linux"
       ],
-      "icon_path": "",
+      "icon_path": "preview.png",
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
@@ -147,7 +147,7 @@
       "platforms": [
         "Windows","Linux","Android","iOS"
       ],
-      "icon_path": "",
+      "icon_path": "preview.png",
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
