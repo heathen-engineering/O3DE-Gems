@@ -13,7 +13,7 @@
       "license": "Apache 2.0",
       "license_url": "https://opensource.org/licenses/Apache-2.0",
       "origin": "Heathen Group",
-      "origin_url": "https://heathen.group",
+      "origin_url": "https://github.com/heathen-engineering/O3DE-xxHash",
       "type": "Code",
       "summary": "Implements the xxHash algorithm — an extremely fast non-cryptographic hash algorithm operating at RAM speed limits. Exposes XXH32, XXH64, and XXH3_128bits to C++, Script Canvas, and Lua via O3DE-native EBus and BehaviorContext interfaces. The xxHash library is authored by Yann Collet (BSD 2-Clause) and bundled unmodified.",
       "canonical_tags": [
