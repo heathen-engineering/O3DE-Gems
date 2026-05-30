@@ -7,81 +7,156 @@
   "summary": "Free, open-source foundation Gems for O3DE under the Apache 2.0 license.",
   "gems_data": [
     {
-      "name": "Foundation for Steamworks",
-      "summary": "Steamworks integration and foundation tools for O3DE.",
-      "versions_data": [
-        {
-          "version": "1.0.0",
-          "last_updated": "2026-05-30",
-          "source_control_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks.git",
-          "source_control_ref": "main",
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks/archive/refs/heads/main.zip"
-        }
+      "gem_name": "xxHash",
+      "version": "1.0.0",
+      "display_name": "xxHash",
+      "license": "Apache 2.0",
+      "license_url": "https://opensource.org/licenses/Apache-2.0",
+      "origin": "Heathen Group",
+      "origin_url": "https://heathen.group",
+      "type": "Code",
+      "summary": "Implements the xxHash algorithm — an extremely fast non-cryptographic hash algorithm operating at RAM speed limits. Exposes XXH32, XXH64, and XXH3_128bits to C++, Script Canvas, and Lua via O3DE-native EBus and BehaviorContext interfaces. The xxHash library is authored by Yann Collet (BSD 2-Clause) and bundled unmodified.",
+      "canonical_tags": [
+        "Gem"
+      ],
+      "user_tags": [
+        "xxHash","Hash"
+      ],
+      "platforms": [
+        "Windows","Linux","Android","iOS"
+      ],
+      "icon_path": "",
+      "requirements": "",
+      "documentation_url": "https://heathen.group",
+      "dependencies": [
+      ],
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-xxHash",
+      "compatible_engines": [
+      ],
+      "engine_api_dependencies":[
       ]
     },
     {
-      "name": "Lexicon Foundation",
-      "summary": "Localization, text management, and language tools for O3DE projects.",
-      "versions_data": [
-        {
-          "version": "1.0.0",
-          "last_updated": "2026-05-30",
-          "source_control_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation.git",
-          "source_control_ref": "main",
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation/archive/refs/heads/main.zip"
-        }
+      "gem_name": "FoundationLocalisation",
+      "version": "1.0.0",
+      "display_name": "Lexicon Localisation Foundation",
+      "license": "Apache 2.0",
+      "license_url": "",
+      "origin": "Heathen Group",
+      "origin_url": "https://heathen.group",
+      "type": "Code",
+      "summary": "A robust localisation system that supports localising strings, audio or any other asset type",
+      "canonical_tags": [
+        "Gem"
+      ],
+      "user_tags": [
+        "FoundationLocalisation"
+      ],
+      "platforms": [
+        "Windows","Linux","iOS","Android"
+      ],
+      "icon_path": "",
+      "requirements": "",
+      "documentation_url": "",
+      "dependencies": [
+        "xxHash"
+      ],
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundaiton-for-Localisation",
+      "compatible_engines": [
+      ],
+      "engine_api_dependencies":[
       ]
     },
     {
-      "name": "Ogham Storyteller Foundation",
-      "summary": "Dialogue, narrative branching, and story design systems.",
-      "versions_data": [
-        {
-          "version": "1.0.0",
-          "last_updated": "2026-05-30",
-          "source_control_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation.git",
-          "source_control_ref": "main",
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/heads/main.zip"
-        }
+      "gem_name": "FoundationGameplayTags",
+      "version": "1.1.1",
+      "display_name": "Gameplay Tags Foundation",
+      "license": "Apache 2.0",
+      "license_url": "https://opensource.org/licenses/Apache-2.0",
+      "origin": "Heathen Group",
+      "origin_url": "https://heathen.group",
+      "type": "Code",
+      "summary": "The Foundation for Gameplay Tags Gem provides a lightweight, flexible tag system for O3DE projects. It enables developers to define, store, and manipulate tags in a structured way, supporting both simple presence checks and numeric values associated with each tag. This Gem forms the foundation for more complex gameplay, dialogue, or state systems that rely on tags for tracking game state, conditions, or other metadata.",
+      "canonical_tags": [
+        "Gem"
+      ],
+      "user_tags": [
+        "FoundationGameplayTags"
+      ],
+      "platforms": [
+        "Windows","Linux","Android","iOS"
+      ],
+      "icon_path": "",
+      "requirements": "",
+      "documentation_url": "https://heathen.group",
+      "dependencies": [
+        "xxHash"
+      ],
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-GameplayTags",
+      "compatible_engines": [
+      ],
+      "engine_api_dependencies":[
       ]
     },
     {
-      "name": "GameplayTags Foundation",
-      "summary": "Hierarchical gameplay tagging system for efficient property and state query management.",
-      "versions_data": [
-        {
-          "version": "1.0.0",
-          "last_updated": "2026-05-30",
-          "source_control_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation.git",
-          "source_control_ref": "main",
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation/archive/refs/heads/main.zip"
-        }
+      "gem_name": "FoundationSteamworks",
+      "version": "1.63.0",
+      "display_name": "Foundation for Steamworks",
+      "license": "Apache 2.0",
+      "license_url": "https://opensource.org/licenses/Apache-2.0",
+      "origin": "Heathen Group",
+      "origin_url": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks",
+      "type": "Code",
+      "summary": "An Open 3D Engine (O3DE) gem that wraps the Valve Steamworks SDK and exposes it through O3DE's EBus system and Script Canvas / Lua behaviour context.",
+      "canonical_tags": [
+        "Gem"
+      ],
+      "user_tags": [
+        "Steamworks"
+      ],
+      "platforms": [
+        "Windows","Linux"
+      ],
+      "icon_path": "",
+      "requirements": "",
+      "documentation_url": "https://heathen.group",
+      "dependencies": [
+      ],
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks",
+      "compatible_engines": [
+      ],
+      "engine_api_dependencies":[
       ]
     },
     {
-      "name": "DataLens Foundation",
-      "summary": "Data observation, binding, and inspectable reactive data pathways.",
-      "versions_data": [
-        {
-          "version": "1.0.0",
-          "last_updated": "2026-05-30",
-          "source_control_uri": "https://github.com/heathen-engineering/O3DE-DataLens-Foundation.git",
-          "source_control_ref": "main",
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-DataLens-Foundation/archive/refs/heads/main.zip"
-        }
-      ]
-    },
-    {
-      "name": "xxHash",
-      "summary": "Extremely fast non-cryptographic hash algorithm integration for O3DE.",
-      "versions_data": [
-        {
-          "version": "1.0.0",
-          "last_updated": "2026-05-30",
-          "source_control_uri": "https://github.com/heathen-engineering/O3DE-xxHash.git",
-          "source_control_ref": "main",
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-xxHash/archive/refs/heads/main.zip"
-        }
+      "gem_name": "FoundationOgham",
+      "version": "1.1.0",
+      "display_name": "Ogham Storyteller Foundation",
+      "license": "Apache 2.0",
+      "license_url": "https://opensource.org/licenses/Apache-2.0",
+      "origin": "Heathen Group",
+      "origin_url": "https://heathen.group",
+      "type": "Code",
+      "summary": "A data-driven narrative orchestration Gem for O3DE, designed by Heathen Group. It provides a robust, decoupled framework for managing complex branching dialogue and persistent world state using a unified, hierarchy-aware messaging system. Unlike traditional dialogue tools that couple logic to UI, Ogham operates as a Narrative Event Bus — managing the what and when of your story, while your presentation layer handles the how by responding to standardized EBus events.",
+      "canonical_tags": [
+        "Gem"
+      ],
+      "user_tags": [
+        "FoundationOgham","Narrative","Dialogue","GameplayTag"
+      ],
+      "platforms": [
+        "Windows","Linux","Android","iOS"
+      ],
+      "icon_path": "",
+      "requirements": "",
+      "documentation_url": "https://heathen.group",
+      "dependencies": [
+        "FoundationGameplayTags","FoundationLocalisation","FoundationHeathenWidgets"
+      ],
+      "repo_uri": "",
+      "compatible_engines": [
+      ],
+      "engine_api_dependencies":[
       ]
     }
   ]
