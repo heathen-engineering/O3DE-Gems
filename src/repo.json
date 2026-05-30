@@ -1,9 +1,9 @@
 {
   "$schemaVersion": "1.0.0",
-  "repo_name": "Heathen Engineering O3DE Gems",
-  "origin": "Heathen Engineering",
+  "repo_name": "Heathen Engineering's Gems",
+  "origin": "Heathen Engineering O3DE Gems",
   "origin_url": "https://github.com/heathen-engineering",
-  "repo_uri": "https://raw.githubusercontent.com/heathen-engineering/O3DE-Gems/main/repo.json",
+  "repo_uri": "https://raw.githubusercontent.com/heathen-engineering/O3DE-Gems/main/src/repo.json",
   "summary": "Free, open-source foundation Gems for O3DE under the Apache 2.0 license.",
   "gems_data": [
     {
