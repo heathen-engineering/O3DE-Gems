@@ -179,7 +179,7 @@
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
-        "FoundationGameplayTags","FoundationLocalisation","FoundationHeathenWidgets"
+        "FoundationGameplayTags","FoundationLocalisation","xxHash"
       ],
       "repo_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation",
       "version": "1.1.0",
