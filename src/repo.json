@@ -163,7 +163,7 @@
       "license": "Apache 2.0",
       "license_url": "https://opensource.org/licenses/Apache-2.0",
       "origin": "Heathen Group",
-      "origin_url": "https://heathen.group",
+      "origin_url": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation",
       "type": "Code",
       "summary": "A data-driven narrative orchestration Gem for O3DE, designed by Heathen Group. It provides a robust, decoupled framework for managing complex branching dialogue and persistent world state using a unified, hierarchy-aware messaging system. Unlike traditional dialogue tools that couple logic to UI, Ogham operates as a Narrative Event Bus — managing the what and when of your story, while your presentation layer handles the how by responding to standardized EBus events.",
       "canonical_tags": [
