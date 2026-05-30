@@ -1,0 +1,88 @@
+{
+  "$schemaVersion": "1.0.0",
+  "repo_name": "Heathen Engineering O3DE Gems",
+  "origin": "Heathen Engineering",
+  "origin_url": "https://github.com/heathen-engineering",
+  "repo_uri": "https://raw.githubusercontent.com/heathen-engineering/O3DE-Gems/main/repo.json",
+  "summary": "Free, open-source foundation Gems for O3DE under the Apache 2.0 license.",
+  "gems_data": [
+    {
+      "name": "Foundation for Steamworks",
+      "summary": "Steamworks integration and foundation tools for O3DE.",
+      "versions_data": [
+        {
+          "version": "1.0.0",
+          "last_updated": "2026-05-30",
+          "source_control_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks.git",
+          "source_control_ref": "main",
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks/archive/refs/heads/main.zip"
+        }
+      ]
+    },
+    {
+      "name": "Lexicon Foundation",
+      "summary": "Localization, text management, and language tools for O3DE projects.",
+      "versions_data": [
+        {
+          "version": "1.0.0",
+          "last_updated": "2026-05-30",
+          "source_control_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation.git",
+          "source_control_ref": "main",
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation/archive/refs/heads/main.zip"
+        }
+      ]
+    },
+    {
+      "name": "Ogham Storyteller Foundation",
+      "summary": "Dialogue, narrative branching, and story design systems.",
+      "versions_data": [
+        {
+          "version": "1.0.0",
+          "last_updated": "2026-05-30",
+          "source_control_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation.git",
+          "source_control_ref": "main",
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/heads/main.zip"
+        }
+      ]
+    },
+    {
+      "name": "GameplayTags Foundation",
+      "summary": "Hierarchical gameplay tagging system for efficient property and state query management.",
+      "versions_data": [
+        {
+          "version": "1.0.0",
+          "last_updated": "2026-05-30",
+          "source_control_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation.git",
+          "source_control_ref": "main",
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation/archive/refs/heads/main.zip"
+        }
+      ]
+    },
+    {
+      "name": "DataLens Foundation",
+      "summary": "Data observation, binding, and inspectable reactive data pathways.",
+      "versions_data": [
+        {
+          "version": "1.0.0",
+          "last_updated": "2026-05-30",
+          "source_control_uri": "https://github.com/heathen-engineering/O3DE-DataLens-Foundation.git",
+          "source_control_ref": "main",
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-DataLens-Foundation/archive/refs/heads/main.zip"
+        }
+      ]
+    },
+    {
+      "name": "xxHash",
+      "summary": "Extremely fast non-cryptographic hash algorithm integration for O3DE.",
+      "versions_data": [
+        {
+          "version": "1.0.0",
+          "last_updated": "2026-05-30",
+          "source_control_uri": "https://github.com/heathen-engineering/O3DE-xxHash.git",
+          "source_control_ref": "main",
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-xxHash/archive/refs/heads/main.zip"
+        }
+      ]
+    }
+  ]
+}
