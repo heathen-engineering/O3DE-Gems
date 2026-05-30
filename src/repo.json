@@ -83,7 +83,7 @@
     },
     {
       "gem_name": "FoundationGameplayTags",
-      "version": "1.1.1",
+      "version": "1.2.2",
       "display_name": "Gameplay Tags Foundation",
       "license": "Apache 2.0",
       "license_url": "https://opensource.org/licenses/Apache-2.0",
@@ -106,12 +106,12 @@
       "dependencies": [
         "xxHash"
       ],
-      "repo_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation",
-      "version": "1.0.0",
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-GameplayTags",
+      "version": "1.2.2",
       "versions_data": [
         {
-          "download_source_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation/archive/refs/tags/v1.0.0.zip",
-          "version": "1.0.0"
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-GameplayTags/archive/refs/tags/v1.2.2.zip",
+          "version": "1.2.2"
         }
       ],
       "compatible_engines": [
