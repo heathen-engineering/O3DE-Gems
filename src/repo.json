@@ -68,7 +68,14 @@
       "dependencies": [
         "xxHash"
       ],
-      "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundaiton-for-Localisation",
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation",
+      "version": "1.0.0",
+      "versions_data": [
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation/archive/refs/tags/v1.0.0.zip",
+          "version": "1.0.0"
+        }
+      ],
       "compatible_engines": [
       ],
       "engine_api_dependencies":[
@@ -99,7 +106,14 @@
       "dependencies": [
         "xxHash"
       ],
-      "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-GameplayTags",
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation",
+      "version": "1.0.0",
+      "versions_data": [
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-GameplayTags-Foundation/archive/refs/tags/v1.0.0.zip",
+          "version": "1.0.0"
+        }
+      ],
       "compatible_engines": [
       ],
       "engine_api_dependencies":[
@@ -130,6 +144,13 @@
       "dependencies": [
       ],
       "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks",
+      "version": "1.0.0",
+      "versions_data": [
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks/archive/refs/tags/v1.63.0.zip",
+          "version": "1.0.0"
+        }
+      ],
       "compatible_engines": [
       ],
       "engine_api_dependencies":[
@@ -160,7 +181,14 @@
       "dependencies": [
         "FoundationGameplayTags","FoundationLocalisation","FoundationHeathenWidgets"
       ],
-      "repo_uri": "",
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation",
+      "version": "1.0.0",
+      "versions_data": [
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/tags/v1.0.0.zip",
+          "version": "1.0.0"
+        }
+      ],
       "compatible_engines": [
       ],
       "engine_api_dependencies":[
