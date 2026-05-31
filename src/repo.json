@@ -44,11 +44,47 @@
       ]
     },
     {
-      "gem_name": "FoundationLocalisation",
+      "gem_name": "EditorExtensions",
       "version": "1.0.0",
+      "display_name": "Editor Extensions",
+      "license": "Apache 2.0",
+      "license_url": "https://opensource.org/licenses/Apache-2.0",
+      "origin": "Heathen Group",
+      "origin_url": "https://heathen.group",
+      "type": "Code",
+      "summary": "Foundational editor infrastructure gem providing a unified Settings window and page-registration API. All Heathen Foundation gems depend on this gem to contribute pages to the top-level Settings window.",
+      "canonical_tags": [
+        "Gem"
+      ],
+      "user_tags": [
+        "EditorExtensions"
+      ],
+      "platforms": [
+        "Windows","Linux","Mac"
+      ],
+      "icon_path": "preview.png",
+      "requirements": "",
+      "documentation_url": "https://heathen.group",
+      "dependencies": [
+      ],
+      "repo_uri": "https://github.com/heathen-engineering/O3DE-Editor-Extensions",
+      "versions_data": [
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Editor-Extensions/archive/refs/tags/v1.0.0.zip",
+          "version": "1.0.0"
+        }
+      ],
+      "compatible_engines": [
+      ],
+      "engine_api_dependencies":[
+      ]
+    },
+    {
+      "gem_name": "FoundationLocalisation",
+      "version": "1.1.1",
       "display_name": "Lexicon Localisation Foundation",
       "license": "Apache 2.0",
-      "license_url": "",
+      "license_url": "https://opensource.org/licenses/Apache-2.0",
       "origin": "Heathen Group",
       "origin_url": "https://heathen.group",
       "type": "Code",
@@ -64,16 +100,19 @@
       ],
       "icon_path": "preview.png",
       "requirements": "",
-      "documentation_url": "",
+      "documentation_url": "https://heathen.group",
       "dependencies": [
-        "xxHash"
+        "xxHash","EditorExtensions"
       ],
       "repo_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation",
-      "version": "1.0.0",
       "versions_data": [
         {
           "download_source_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation/archive/refs/tags/v1.0.0.zip",
           "version": "1.0.0"
+        },
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Lexicon-Foundation/archive/refs/tags/v1.1.1.zip",
+          "version": "1.1.1"
         }
       ],
       "compatible_engines": [
@@ -158,7 +197,7 @@
     },
     {
       "gem_name": "FoundationOgham",
-      "version": "1.1.1",
+      "version": "1.2.2",
       "display_name": "Ogham Storyteller Foundation",
       "license": "Apache 2.0",
       "license_url": "https://opensource.org/licenses/Apache-2.0",
@@ -179,14 +218,17 @@
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
-        "FoundationGameplayTags","FoundationLocalisation","xxHash"
+        "FoundationGameplayTags","FoundationLocalisation","EditorExtensions","xxHash"
       ],
       "repo_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation",
-      "version": "1.1.1",
       "versions_data": [
         {
           "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/tags/v1.1.1.zip",
           "version": "1.1.1"
+        },
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/tags/v1.2.2.zip",
+          "version": "1.2.2"
         }
       ],
       "compatible_engines": [
