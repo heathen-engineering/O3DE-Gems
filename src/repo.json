@@ -160,7 +160,7 @@
     },
     {
       "gem_name": "FoundationSteamworks",
-      "version": "1.63.0",
+      "version": "1.63.1",
       "display_name": "Foundation for Steamworks",
       "license": "Apache 2.0",
       "license_url": "https://opensource.org/licenses/Apache-2.0",
@@ -181,13 +181,17 @@
       "requirements": "",
       "documentation_url": "https://heathen.group",
       "dependencies": [
+        "EditorExtensions"
       ],
       "repo_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks",
-      "version": "1.0.0",
       "versions_data": [
         {
           "download_source_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks/archive/refs/tags/v1.63.0.zip",
-          "version": "1.0.0"
+          "version": "1.63.0"
+        },
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Foundation-for-Steamworks/archive/refs/tags/v1.63.1.zip",
+          "version": "1.63.1"
         }
       ],
       "compatible_engines": [
