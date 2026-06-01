@@ -201,7 +201,7 @@
     },
     {
       "gem_name": "FoundationOgham",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "display_name": "Ogham Storyteller Foundation",
       "license": "Apache 2.0",
       "license_url": "https://opensource.org/licenses/Apache-2.0",
@@ -233,6 +233,10 @@
         {
           "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/tags/v1.2.2.zip",
           "version": "1.2.2"
+        },
+        {
+          "download_source_uri": "https://github.com/heathen-engineering/O3DE-Ogham-Storyteller-Foundation/archive/refs/tags/v1.2.3.zip",
+          "version": "1.2.3"
         }
       ],
       "compatible_engines": [
