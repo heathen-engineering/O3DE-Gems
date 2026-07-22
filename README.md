@@ -1,3 +1,5 @@
+> **Migrating to Codeberg:** this repo is moving to [codeberg.org/Heathen-Engineering/O3DE-Gems](https://codeberg.org/Heathen-Engineering/O3DE-Gems). GitHub will remain a read-only mirror during the transition.
+
 # O3DE-Gems
 This repo exists to help you more easily find and add Heathen's O3DE Gems to your project. To add the repo open the O3DE Project Manager select Gems
 <img width="1516" height="770" alt="image" src="https://github.com/user-attachments/assets/dd2faff9-ce9b-4bee-9215-3e09648dda0f" />
